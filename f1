@@ -7,7 +7,7 @@ public class GFG{
         // Step 1: Create Scanner object
         Scanner sc = new Scanner(System.in);
  dc n c
-        // Step 2: Prompt user for input
+        // Step 2: Prompt user for input dsnnmd
         System.out.print("Enter an integer: ");
 
         // Step 3: Read integer input
